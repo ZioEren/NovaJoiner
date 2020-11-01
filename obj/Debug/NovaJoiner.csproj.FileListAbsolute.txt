@@ -1,0 +1,16 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\NovaJoiner.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\NovaJoiner.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\NovaJoiner.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\Anarchy.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaJoiner\NovaJoiner\obj\Debug\NovaJoiner.csproj.CopyComplete
